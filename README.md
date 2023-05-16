@@ -172,9 +172,6 @@ node server
 ## How to install without Git using terminal
 
 1. Download files
-
-![image](https://user-images.githubusercontent.com/1305564/208082133-ff209076-1fb3-44ef-9a0d-c34f0f90a1e2.png)
-
 2. Extract to folder of choice
 3. Make sure to run WebUI with the command line parameters `--api`, this will be in your `webui-user.bat` file if your on Windows __**Very Important**__
 4. Open terminal inside folder and run these commands
